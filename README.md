@@ -25,7 +25,36 @@ I mainly work with:
 - ⚛️ **React** (Material UI, animations, modern UI patterns)  
 - 🟦 **.NET / C#** (Web API, Entity Framework Core)  
 - 🗄️ **SQL Server**  
-- ☁️ **AWS Lambda**  
+- ☁️ **AWS Lambda**
 
- 
+
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CondalAgustin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+
+</div>
+
+<div align="center">
+
+### 🚀 Mis Estadísticas de GitHub
+
+![Agus GitHub Stats](https://github-readme-stats.vercel.app/api?username=CondalAgustin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+
+</div>
+
+
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=CondalAgustin&theme=tokyonight&hide_border=true&background=00000000)
+
+</div>
+
+
+ <div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CondalAgustin&theme=tokyo-night&hide_border=true&bg_color=00000000)
+
+</div>
+
  
