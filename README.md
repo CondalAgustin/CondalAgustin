@@ -18,6 +18,9 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+
 I'm a passionate Full Stack Developer from Argentina with 5+ years of experience building modern, user-friendly applications.  
 My focus is on creating clean architecture, smooth UI experiences and scalable backends.
 
@@ -28,8 +31,9 @@ I mainly work with:
 - ☁️ **AWS Lambda**
 
 
+<br>
  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 
