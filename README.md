@@ -28,28 +28,32 @@ I mainly work with:
 - ☁️ **AWS Lambda**
 
 
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CondalAgustin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
-
-</div>
-
-<div align="center">
-
-### 🚀 Mis Estadísticas de GitHub
-
-![Agus GitHub Stats](https://github-readme-stats.vercel.app/api?username=CondalAgustin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-
-</div>
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 
 
-<div align="center">
+ <p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CondalAgustin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=CondalAgustin&theme=tokyonight&hide_border=true&background=00000000" /> 
+</td>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CondalAgustin&theme=tokyonight&hide_border=true&background=00000000)
+<td width="50%" align="center">
 
-</div>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CondalAgustin&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
  <div align="center">
 
@@ -57,4 +61,11 @@ I mainly work with:
 
 </div>
 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
  
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,azure,vscode,aws,postman,postgres,express,mysql,figma,html,css,js,materialui,react,redux,tailwind,ts,cpp,nodejs,cs,dotnet,&perline=14" />
+  </a>
+</p>
