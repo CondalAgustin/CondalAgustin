@@ -43,7 +43,7 @@ I mainly work with:
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CondalAgustin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=CondalAgustin&theme=tokyonight&hide_border=true&background=00000000" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://streak-stats.demolab.com?user=CondalAgustin&theme=tokyonight&hide_border=true&background=00000000&count_private=true" /> 
 </td>
 
 <td width="50%" align="center">
